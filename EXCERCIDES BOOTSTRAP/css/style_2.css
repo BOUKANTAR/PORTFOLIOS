@@ -1,0 +1,69 @@
+@font-face{
+    font-family: 'raider_crusad_grave';
+    src: url("../fonts/raidercrusaderengrave.ttf");
+    font-family: 'rocket_pop_cond';
+    src: url("../fonts/rocketpopcond.otf");
+    font-family: 'Painter_PERSONAL_USE_ONLY';
+    src: url("../fonts/Painter_PERSONAL_USE_ONLY.ttf");
+    font-family: 'EASPORTS15';
+    src: url("../fonts/EASPORTS15.ttf");
+}
+body{
+    width: 100%;
+    height: 1000px;
+    background: url("../images/photos_bachir_12b.jpg") repeat fixed top left;
+    /*background: url("../images/photos_bachir_1c.jpg") no-repeat top;*/
+    font-family: 'EASPORTS15', sans-serif;
+    color: rgba(0,0,0,0.8);
+}
+/*header{
+   
+}
+header:hover{
+    
+}*/
+nav{
+    background-color: powderblue;
+    border-bottom: 2px aliceblue solid;
+    border-top: 2px aliceblue solid;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 70px;
+    width: 100%;
+   
+    font-size: 16px;
+    /*padding-left: 4%;*/
+     transform: translateY(0px);
+}
+nav:hover{
+   transform: translateY(50px);
+   transition: transform 5s linear; 
+}
+ul{
+  text-align: center; 
+ 
+}
+li{
+     background-color: aliceblue;
+     text-align: center;
+      transform: skewX(360deg);
+    font-family: 'EASPORTS15', sans-serif, ;
+    color: darkblue;
+}
+li:hover{
+    color:aliceblue;
+    background-color:darkolivegreen;
+    transition: transfom 5s linear;
+    transition: color 3s linear; 
+    transition: background-color 1s linear;
+    
+}
+/*li:hover{
+    color: dodgerblue;
+    background-color: red;
+    transform: skewX(0deg);
+    transition: transform 10s linear;
+}
+.carousel-inner{
+    transition: slide 1s linear;
+}*/

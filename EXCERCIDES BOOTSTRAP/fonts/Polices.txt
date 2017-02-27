@@ -1,0 +1,15 @@
+Police cursive de type manuscrite
+
+
+	Voici deux polices True Type qui permettent une écriture de type manuscrite ( un peut trop parfaite sans doute ).
+
+	Pour ces deux polices, la petite queue de premier caractère d'un mot se situe sur la touche & du clavier. 
+
+	Pour la police CURSIFL.TTF ( avec les lignes seyes ), vous pouvez tracer des lignes vierges à l'aide des caractères 150 et 151 ( en ASCII ) qui s'obtiennent aisément sous WORD avec les touches Ctrl+Num - et AltCtrl+Num -.
+
+	Ces deux polices ont été élaborées par BEAUMALE Christophe, enseignant débutant ( 1ère année en CP ).
+
+	Je les met à disposition en conservant les droits, mais ne serais pas responsable de ce qu'elles pourraient causer sur votre ordinateur.
+
+	Vous pouvez me contacter par E-Mail : sowhat@Planete.net.
+
